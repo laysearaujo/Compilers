@@ -1,7 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6g2OQZeL)
-# IF688 - Teoria e Implementação de Linguagens Computacionais
-
-## Atividade 3 - Type Checking com Escopos
+Type Checking com Escopos
 
 Este exercício visa trabalhar os conceitos de análise semântica vistos em sala de aula. A ideia é implementar um checador de tipos para a linguagem simples que temos desenvolvido em aula, levando em consideração escopo de bloco, o que permite *shadowing* de variáveis.
 
