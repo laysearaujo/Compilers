@@ -1,8 +1,17 @@
-## LL(1) parsing
+# LL(1) Parsing
 
-### Testando o Projeto
-- Faça o download deste projeto;
-- Caso ainda não tenha `pytest` instalada, rode `pip3 install pytest`
-- Na linha de comando, rode `pytest` e veja que a maioria dos testes não estão passando; 
-- Implemente as funções descritas acima em `ll1parser.py`, usando apenas a parte dedicada do arquivo para tanto;
-- Use o arquivo `main.py` se quiser rodar algo no console e observar o *output*.
+## Testing the Project
+To test this project, follow these steps:
+
+1. Download this project.
+2. If you haven't already installed pytest, run the following command:
+   ```
+   pip3 install pytest
+   ```
+In the command line, run pytest and observe that most of the tests are failing.
+```
+pytest
+```
+
+## Running the Project
+You can use the main.py file to run the project in the console and observe the output.
